@@ -1,0 +1,26 @@
+# .NET
+bin/
+obj/
+*.user
+*.vs/
+
+# Node / Angular
+node_modules/
+dist/
+npm-debug.log
+.env
+
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.dart_tool/
+build/
+.idea/
+.android/
+.ios/
+
+# IDEs
+.vscode/
+*.suo
+*.user
